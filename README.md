@@ -1,1 +1,1 @@
-# tailwind-practice
+# making personal website
