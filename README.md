@@ -1,1 +1,1 @@
-making personal website
+frontend practice with tailwind 
